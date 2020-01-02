@@ -1,1 +1,3 @@
-# scary frustating merge conflict
+# devpy
+Some testing features of Git
+
