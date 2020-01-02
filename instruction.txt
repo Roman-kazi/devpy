@@ -1,0 +1,2 @@
+git global --username and --email are only for tracking purpose only
+not for logging in.
