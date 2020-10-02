@@ -1,3 +1,3 @@
 # devpy
-Some testing features of Git
 
+This repository is created with the intention of testing github features.
